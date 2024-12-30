@@ -1,4 +1,9 @@
-## Hi there &#128514
+<html>
+<meta charset="UTF-8">
+<body>
+<h1>Hi hello &#128514</h1>
+</body>
+</html>
 
 <!--
 **Harsha-2401/Harsha-2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
